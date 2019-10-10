@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/giftakari/Abolga-AMG-Blog#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "startbootstrap-clean-blog": "^5.0.8"
   }
 }
